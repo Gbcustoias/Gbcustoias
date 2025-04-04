@@ -4,7 +4,6 @@
 
 **`Nutricionista | Mestre em Ciências | Estudante de Tecnologia | Futuro Analista de Dados com foco em IA`**
 
----
 
 Sou o Giovani, nutricionista esportivo e mestre em Ciências pela EEFE/USP, atualmente em transição para a área da tecnologia. Curso Análise e Desenvolvimento de Sistemas na FATEC e trabalho como estagiário na Vivo, na área de Serviços Digitais B2B.
 
