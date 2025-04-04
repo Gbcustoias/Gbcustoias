@@ -50,6 +50,17 @@ Meu objetivo é **integrar minha formação em saúde com a inteligência artifi
 
 ---
 
+
+### 🚀 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🌐 Meu Site Profissional](https://github.com/Gbcustoias/meusite) | Site pessoal para atuação como nutricionista, com foco em apresentação de serviços, currículo e materiais de saúde. | `HTML`, `CSS`, `JavaScript` |
+| [📚 CRUD Livraria (VBA)](https://github.com/Gbcustoias/livraria) | Sistema fictício de controle de vendas e estoque para livraria, desenvolvido em Excel com VBA, incluindo interface com formulários. | `Excel`, `VBA`, `UserForm` |
+
+---
+
+
 ### 📖 Atualmente estudando
 
 - Fundamentos de Python  
