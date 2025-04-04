@@ -27,7 +27,7 @@ Meu objetivo é **integrar minha formação em saúde com a inteligência artifi
 
 ---
 
-### 🎓 Certificados Relevantes
+### 🎓 Certificados
 
 - Python Packages for Data Science – *University of Colorado Boulder*
 - Introduction to Python Functions – *University of Colorado Boulder*
