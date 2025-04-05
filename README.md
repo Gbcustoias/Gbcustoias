@@ -75,7 +75,7 @@ Meu objetivo é **integrar minha formação em saúde com a inteligência artifi
 
 <p>
   <img align="left" height="110" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Gbcustoias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbcustoias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbcustoias&repo=meusite&theme=tokyonight&layout=compact&custom_title=Linguagens+do+Site&langs_count=3" />
 </p>
 
 <br><br><br><br><br><br><br><br><br><br>
