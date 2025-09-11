@@ -1,14 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Saúde,+IA+e+Ciência+de+Dados)](https://git.io/typing-svg)
-
 # 👨🏻‍💻 Giovani Boldrini Custoias
 
-**`Nutricionista | Mestre em Ciências | Estudante de Tecnologia | Futuro Analista de Dados com foco em IA`**
+**`Mestre em Ciências | Nutricionista | Engenharia & Análise de Dados | IA | Machine Learning`**
 
 
-Sou o Giovani, nutricionista esportivo e mestre em Ciências pela EEFE/USP, atualmente em transição para a área da tecnologia. Curso Análise e Desenvolvimento de Sistemas na FATEC e trabalho como estagiário na Vivo, na área de Serviços Digitais B2B.
+Formado em Nutrição pela Universidade Paulista (2018), com especialização em Nutrição Esportiva e Wellness pela Universidade São Camilo (2020), Mestre em Ciências da Saúde pela Escola de Educação Física e Esporte da USP (2024) e graduando em Análise de Desenvolvimento de Sistemas na FATEC.
 
-Meu objetivo é **integrar minha formação em saúde com a inteligência artificial**, utilizando tecnologias como **machine learning** e **análise de dados** para inovar na gestão da saúde e da qualidade de vida.
-
+Atualmente, atuo estagiando como analista funcional na Vivo e realizando atendimento nutricional. Possuo grande interesse na área de tecnologia e saúde, principalmente em pesquisas clínicas, IA, engenharia e análise de dados.
 ---
 
 ### 🌐 Onde me encontrar
