@@ -1,25 +1,14 @@
 # 📜 Certificações
 
-## 🔍 Destaques para Ciência de Dados
-- Especialização: Databases for Data Scientists – University of Colorado Boulder
-- Especialização: Expressway to Data Science (Python) – University of Colorado Boulder
-- Programming for Everybody (Getting Started with Python) – University of Michigan
-- Excel Skills for Business: Essentials – Macquarie University
-- Introduction to Machine Learning – Duke University
-- Workshop: Power BI Avançado – Vivo Explore
-- Curso: Engenharia de Prompt para IA Generativa – Alura
-- Curso: APIs e Microsserviços REST – Edutech Vivo
-
----
-
-## 📚 Lista Completa de Certificações
-- Especialização: Databases for Data Scientists – Coursera (University of Colorado Boulder) 2025
+##Especialização: Databases for Data Scientists – Coursera (University of Colorado Boulder) 2025
 - Relational Database Design
 - The Structured Query Language (SQL)
 - Advanced Topics and Future Trends in Database Technologies
-- Especialização: Expressway to Data Science: Python Programming – Coursera (University of Colorado Boulder) 2025
+  
+##Especialização: Expressway to Data Science: Python Programming – Coursera (University of Colorado Boulder) 2025
 - Introduction to Python Fundamentals
 - Introduction to Python Functions
+  
 - Python Packages for Data Science
 - Curso: Introductory Human Physiology – Coursera (Duke university) 2025
 - Curso: Increasing Multiplication Mastery with Microsoft PowerPoint – Coursera Project Network 2022
