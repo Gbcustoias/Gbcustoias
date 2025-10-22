@@ -1,15 +1,18 @@
 # 📜 Certificações
 
-##Especialização: Databases for Data Scientists – Coursera (University of Colorado Boulder) 2025
+#### Especialização: Databases for Data Scientists – Coursera (University of Colorado Boulder) 2025
 - Relational Database Design
 - The Structured Query Language (SQL)
 - Advanced Topics and Future Trends in Database Technologies
   
-##Especialização: Expressway to Data Science: Python Programming – Coursera (University of Colorado Boulder) 2025
+#### Especialização: Expressway to Data Science: Python Programming – Coursera (University of Colorado Boulder) 2025
 - Introduction to Python Fundamentals
 - Introduction to Python Functions
-  
 - Python Packages for Data Science
+
+  ---
+
+
 - Curso: Introductory Human Physiology – Coursera (Duke university) 2025
 - Curso: Increasing Multiplication Mastery with Microsoft PowerPoint – Coursera Project Network 2022
 - Curso: How To Visualize Your Data Using Microsoft Powerpoint – Coursera Project Network 2022
