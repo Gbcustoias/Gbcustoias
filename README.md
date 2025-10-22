@@ -3,9 +3,10 @@
 **`Mestre em Ciências | Nutricionista | Engenharia & Análise de Dados | IA | Machine Learning`**
 
 
-Formado em Nutrição pela Universidade Paulista (2018), com especialização em Nutrição Esportiva e Wellness pela Universidade São Camilo (2020), Mestre em Ciências da Saúde pela Escola de Educação Física e Esporte da USP (2024) e graduando em Análise de Desenvolvimento de Sistemas na FATEC.
+Sou Mestre em Ciências pela USP, graduado em Nutrição e atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC. Atuo como analista funcional na Vivo, com experiência em metodologias ágeis, análise de requisitos e transformação digital.
 
-Atualmente, atuo estagiando como analista funcional na Vivo e realizando atendimento nutricional. Possuo grande interesse na área de tecnologia e saúde, principalmente em pesquisas clínicas, IA, engenharia e análise de dados.
+Tenho grande interesse em ciência de dados, inteligência artificial e machine learning, com projetos voltados à análise de dados, visualizações interativas e soluções aplicáveis em diversos setores. Busco oportunidades como cientista de dados júnior, integrando tecnologia, análise crítica e inovação.
+
 ---
 
 ### 🌐 Onde me encontrar
@@ -19,31 +20,58 @@ Atualmente, atuo estagiando como analista funcional na Vivo e realizando atendim
   </a>
   <a href="https://www.linkedin.com/in/giovani-boldrini-custoias-63312516a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Giovani%20Boldrini%20Custoias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+</a>
+  <a href="https://lattes.cnpq.br/7873063857752307" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-Currículo%20Lattes-4B0082?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
+    
+
 </p>
 
 ---
 
 ### 🎓 Certificados
 
-- Python Packages for Data Science – *University of Colorado Boulder*
-- Introduction to Python Functions – *University of Colorado Boulder*
-- Introduction to Python Fundamentals – *University of Colorado Boulder*
-- Programming for Everybody (Getting Started with Python) – *University of Michigan*
-- Excel Skills for Business: Essentials – *Macquarie University*
-- Estatísticas: conceitos e representações – *IFRS*
-- Estatística: medidas de posição e dispersão – *IFRS*
+#### Especialização: Databases for Data Scientists – University of Colorado Boulder  
+• Relational Database Design  
+• SQL  
+• Advanced Topics in Database Technologies  
+
+#### Especialização: Expressway to Data Science (Python) – University of Colorado Boulder  
+• Python Fundamentals  
+• Python Functions  
+• Python Packages for Data Science  
+
+• Programming for Everybody (Getting Started with Python) – University of Michigan    
+• Excel Skills for Business: Essentials – Macquarie University  
+• Introduction to Machine Learning – Duke University    
+• Workshop: Power BI Avançado – Vivo Explore  
+• Curso: Engenharia de Prompt para IA Generativa – Alura   
+• Curso: APIs e Microsserviços REST – Edutech Vivo  
+
+
+📜 [Mais certificados](CERTIFICACOES.md)
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+## 🧠 Hard Skills
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" />
-<img align="left" alt="VS Code" title="Visual Studio Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-<br><br>
+| Tecnologia / Competência         | Nível         | Legenda         |
+|----------------------------------|---------------|-----------------|
+| Python                           | 🟩🟩🟩⬜⬜       | Intermediário   |
+| SQL                              | 🟩🟩🟩⬜⬜       | Intermediário   |
+| Prompt Engineering               | 🟩🟩🟩⬜⬜       | Intermediário   |
+| VS Code                          | 🟩🟩🟩⬜⬜       | Intermediário   |
+| Machine Learning                 | 🟩🟩🟩⬜⬜       | Intermediário   |
+| Power BI                         | 🟩🟩⬜⬜⬜       | Básico          |
+| DBeaver                          | 🟩🟩⬜⬜⬜       | Básico          |
+| R                                | 🟩🟩⬜⬜⬜       | Básico          |
+| PowerPoint                       | 🟩🟩🟩🟩⬜       | Avançado        |
+| Excel                            | 🟩🟩🟩🟩⬜       | Avançado        |
+| Estatística                      | 🟩🟩🟩⬜⬜       | Intermediário / Avançado   |
+| Inglês                           | 🟩🟩🟩⬜⬜       | Intermediário / Avançado|
+| Espanhol                         | 🟩🟩⬜⬜⬜       | Básico          |
+| Libras                           | 🟩⬜⬜⬜⬜       | Iniciante       |
 
 ---
 
