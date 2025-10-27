@@ -92,11 +92,11 @@ Tenho grande interesse em ciência de dados, inteligência artificial e machine 
 Atualmente estou aprofundando meus conhecimentos em ciência de dados com foco em aplicações práticas na área da saúde pública. Meus estudos incluem:
 
 **Especialização: Data Analysis with Python – University of Colorado Boulder (Coursera)**  
-• Classification Analysis 
-• Regression Analysis 
+• Classification Analysis  
+• Regression Analysis  
 • Clustering Analysis   
-• Association Rules Analysis
-• Data Analysis with Python Project  
+• Association Rules Analysis  
+• Data Analysis with Python Project    
 
 **Projeto de Machine Learning com dados de saúde pública**  
 • Análise preditiva e modelagem estatística  
