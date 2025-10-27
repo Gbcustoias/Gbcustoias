@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Giovani Boldrini Custoias
 
-**`Mestre em Ciências | Nutricionista | Engenharia & Análise de Dados | IA | Machine Learning`**
+**`Mestre em Ciências | Nutricionista | Ciência & Análise de Dados | IA | Machine Learning`**
 
 
 Sou Mestre em Ciências pela USP, graduado em Nutrição e atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC. Atuo como analista funcional na Vivo, com experiência em metodologias ágeis, análise de requisitos e transformação digital.
