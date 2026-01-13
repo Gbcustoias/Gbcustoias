@@ -3,7 +3,7 @@
 
 **`Ciência e análise de Dados | IA | Machine Learning | Mestre em Ciências`**
 
-Busco oportunidades na área de **Ciência de Dados e Inteligência Artificial**, aplicando análise crítica, modelagem estatística e soluções inovadoras. Minha base sólida em pesquisa científica (Mestrado pela USP) e experiência prática em projetos de dados me permitem unir tecnologia e conhecimento analítico para gerar insights e valor.
+Busco oportunidades na área de **Dados e Inteligência Artificial**, aplicando análise crítica, modelagem estatística e soluções inovadoras. Minha base sólida em pesquisa científica (Mestrado pela USP) e experiência prática em projetos de dados me permitem unir tecnologia e conhecimento analítico para gerar insights e valor.
 
 ---
 
@@ -67,6 +67,7 @@ Busco oportunidades na área de **Ciência de Dados e Inteligência Artificial**
 
 ---
 
+
 ## 🌐 Onde me encontrar
 <p align="center">
   <a href="https://www.linkedin.com/in/giovani-boldrini-custoias-63312516a" target="_blank">
@@ -75,10 +76,18 @@ Busco oportunidades na área de **Ciência de Dados e Inteligência Artificial**
   <a href="https://nutricionistacustoias.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Site-nutricionistacustoias.com.br-1f425f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://lattes.cnpq.br/7873063857752307" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-Currículo%20Lattes-4B0082?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
+
+
+
 ## 📊 Estatísticas do GitHub
-<p>
-  <img align="left" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Gbcustoias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbcustoias)](https://github.com/anuraghazra/github-readme-stats)
+
+
