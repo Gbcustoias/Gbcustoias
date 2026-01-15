@@ -23,9 +23,14 @@ Busco oportunidades na área de **Dados e Inteligência Artificial**, aplicando 
 
 ---
 
+
 ## 📂 Projetos de Dados e IA
+
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
+|---------|-----------|-------------|
+| [🔬 Predição de Mutação do Gene ALDH2](https://github.com/Gbcustoias/ML-ALDH2) | Projeto de machine learning para predição de mutação genética, utilizando dados simulados, validação de modelos (Random Forest, XGBoost, CatBoost) e seleção de variáveis.`catboost`, `shap`, `boruta` |
+| [🥗 Projeto SQL – Clínica de Nutrição](https://github.com/Gbcustoias/BD_clinica-nutricao) | Modelagem e manipulação de banco de dados relacional para uma clínica de nutrição, com consultas SQL, agregações, views e integração com tabela TACO. | `SQL`, `PostgreSQL`, `DBeaver` |
+
 
 
 
