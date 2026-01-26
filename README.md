@@ -37,7 +37,7 @@ Busco oportunidades na área de **Dados e Inteligência Artificial**, aplicando 
 ## 📂 Outros Projetos
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🌐 Meu Site Profissional](https://github.com/Gbcustoias/meusite) | Site pessoal para atuação como nutricionista, com foco em apresentação de serviços, currículo e materiais de saúde. | `HTML`, `CSS`, `JavaScript` |
+| [🌐 Meu Site Profissional](https://github.com/Gbcustoias/Site-nutricionista) | Site pessoal para atuação como nutricionista, com foco em apresentação de serviços, currículo e materiais de saúde. | `HTML`, `CSS`, `JavaScript` |
 | [📚 Gestão Livraria ](https://github.com/Gbcustoias/livraria) | Sistema fictício de controle de vendas e estoque para livraria | `VBA`, `Excel` |
 
 
