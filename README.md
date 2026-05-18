@@ -67,7 +67,7 @@ Busco oportunidades na área de **Dados e Inteligência Artificial**, aplicando 
 | Python | Intermediário |
 | SQL | Intermediário |
 | Machine Learning | Intermediário |
-| Power BI | Básico |
+| Power BI | Intermediário |
 | Estatística | Intermediário / Avançado |
 
 ---
